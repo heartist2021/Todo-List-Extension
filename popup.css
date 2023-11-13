@@ -1,0 +1,19 @@
+body {
+  width: 200px;
+  padding: 10px;
+}
+
+#task-input {
+  width: 150px;
+  margin-bottom: 10px;
+}
+
+.task-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.task-checkbox {
+  margin-right: 5px;
+}
